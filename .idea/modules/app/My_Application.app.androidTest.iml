@@ -176,7 +176,7 @@
         <option name="ALLOW_USER_CONFIGURATION" value="false" />
         <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
         <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
-        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/main/res;file://$MODULE_DIR$/../../../app/src/projectName/res;file://$MODULE_DIR$/../../../app/src/commonRunning/res;file://$MODULE_DIR$/../../../app/src/debug/res;file://$MODULE_DIR$/../../../app/src/projectNameDebug/res;file://$MODULE_DIR$/../../../app/build/generated/res/rs/projectName/debug;file://$MODULE_DIR$/../../../app/build/generated/res/resValues/projectName/debug" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/main/res;file://$MODULE_DIR$/../../../app/src/projectName/res;file://$MODULE_DIR$/../../../app/src/myApp/res;file://$MODULE_DIR$/../../../app/src/debug/res;file://$MODULE_DIR$/../../../app/src/projectNameDebug/res;file://$MODULE_DIR$/../../../app/build/generated/res/rs/projectName/debug;file://$MODULE_DIR$/../../../app/build/generated/res/resValues/projectName/debug" />
         <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/androidTest/res;file://$MODULE_DIR$/../../../app/src/androidTestProjectName/res;file://$MODULE_DIR$/../../../app/src/androidTestDebug/res;file://$MODULE_DIR$/../../../app/src/androidTestProjectNameDebug/res;file://$MODULE_DIR$/../../../app/build/generated/res/rs/androidTest/projectName/debug;file://$MODULE_DIR$/../../../app/build/generated/res/resValues/androidTest/projectName/debug" />
         <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
       </configuration>

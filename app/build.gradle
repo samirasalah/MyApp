@@ -62,8 +62,8 @@ android {
     sourceSets {
 
         projectName {
-            java.srcDirs += ['src/commonRunning/java']
-            res.srcDirs += ['src/commonRunning/res']
+            java.srcDirs += ['src/myApp/java']
+            res.srcDirs += ['src/myApp/res']
         }
     }
     compileOptions {

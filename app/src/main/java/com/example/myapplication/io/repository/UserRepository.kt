@@ -5,7 +5,6 @@ import com.example.myapplication.data.remote.api.ApiService
 import com.example.myapplication.data.remote.api.Resource
 import com.example.myapplication.data.remote.response.Response
 import com.example.myapplication.model.ItemApp
-import com.google.gson.JsonObject
 import java.util.*
 
 
